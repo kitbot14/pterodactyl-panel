@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+15:23:19	1862/1862	---MCZ	200	added ('OK')	text/html	date:Sat,%2024%20Aug%202024%2013:23:18%20GMT	http://89.213.144.45/auth/login	C:/Mes%20Sites%20Web/pterodaptyl%20panel/89.213.144.45/auth/login.html	(from )
+15:23:19	26/26	---M--	200	added ('OK')	text/plain	etag:%22663afc87-1a%22	http://89.213.144.45/robots.txt		(from )
